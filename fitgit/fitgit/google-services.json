@@ -1,0 +1,40 @@
+S{
+  "project_info": {
+    "project_number": "474799166225",
+    "firebase_url": "https://fitgit-v2.firebaseio.com",
+    "project_id": "fitgit-v2",
+    "storage_bucket": "fitgit-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474799166225:android:ef5e893099a286414c32b0",
+        "android_client_info": {
+          "package_name": "com.fitgit.fitgit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474799166225-v1spacla13sakcqmlbod5hr3h6glgavg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGBXmLrWAOxsSrNho7dTlKtxgAvhz0ECA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474799166225-v1spacla13sakcqmlbod5hr3h6glgavg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
